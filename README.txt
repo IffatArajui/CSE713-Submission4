@@ -11,6 +11,8 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1M2vm6Dn2Q_8p5DnFTKgixBaZhZjX_dqSw5OgZOc0x50/edit#slide=id.p
  
 Paper presentation (anyone can view without login):
+https://github.com/sajeeb-i/PR/blob/main/CSE_713_final_project.pdf
+
  
 
 
