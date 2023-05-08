@@ -8,6 +8,9 @@ Paper title:
 Study on Machine Learning Approach using Fingerprint Recognition System
  
 Paper presentation (anyone can view without login):
+https://github.com/sajeeb-i/PR/blob/main/CSE_713_final_project.pdf
+
+ 
 
 
 Group Number:
